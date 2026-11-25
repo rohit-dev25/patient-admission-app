@@ -99,7 +99,7 @@ Open http://localhost:5173.
 ```
 patient-admission/   React frontend
 patient-api/         Spring Boot backend (Dockerfile included)
-docs/screenshots/    README screenshots
+docs/screenshots/     screenshots
 ```
 
 No passwords or secret keys are stored in this repository. The database connection string is provided through the `MONGODB_URI` environment variable.
